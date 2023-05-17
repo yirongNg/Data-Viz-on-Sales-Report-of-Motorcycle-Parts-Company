@@ -1,6 +1,6 @@
 # Reporting on Sales Data
 
-## Project Links
+## 🔗 Project Links
 - [Data Analytics on Jupyter Notebook](https://app.datacamp.com/workspace/w/ee3ec299-eec7-4c61-90a5-4b2905878caf)
 - [Interactive Dashboard on Tableau](https://public.tableau.com/views/SalesReportofCompanySellingMotorcycleParts/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
@@ -21,7 +21,7 @@ You’ve recently learned data manipulation and plotting, and suggest helping yo
 - "total" - Total sale = quantity * unit_price.
 - "payment" - How the client paid: Cash, Credit card, Transfer.
 
-## 🔍**Findings**
+## 🔍 Findings
 
 1. The highest total sales is made by bank transfer payment method. Furthermore, this payment method is made by only wholesale clients who usually made large purchases from our company. Retail clients who visited the warehouses made payment using either credit cards or cash.
 
