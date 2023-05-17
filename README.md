@@ -17,10 +17,11 @@ You’ve recently learned data manipulation and plotting, and suggest helping yo
 - "total" - Total sale = quantity * unit_price.
 - "payment" - How the client paid: Cash, Credit card, Transfer.
 
-## **Findings**
-###
-### 1. The highest total sales is made by bank transfer payment method. Furthermore, this payment method is made by only wholesale clients who usually made large purchases from our company. Retail clients who visited the warehouses made payment using either credit cards or cash.
-###
-### 2. The top 3 products that have the highest average unit price are _engine, frame & body, and suspension & traction_. Engine has the highest unit average unit price but its total sales is ranked 5 out of the 6 products sold. This shows that engine has low sales revenue.
-###
-### 3. Total sales for warehouse in Central region is increasing and the highest among the 3 warehouses while warehouse in West region has declining sales.
+## 🔍**Findings**
+
+1. The highest total sales is made by bank transfer payment method. Furthermore, this payment method is made by only wholesale clients who usually made large purchases from our company. Retail clients who visited the warehouses made payment using either credit cards or cash.
+
+2. The top 3 products that have the highest average unit price are _engine, frame & body, and suspension & traction_. Engine has the highest unit average unit price but its total sales is ranked 5 out of the 6 products sold. This shows that engine has low sales revenue.
+
+3. Total sales for warehouse in Central region is increasing and the highest among the 3 warehouses while warehouse in West region has declining sales.
+![Dashboard 1](https://github.com/yirongNg/Data-Viz-on-Sales-Report-of-Motorcycle-Parts-Company/assets/132359604/f109d214-bbd9-43b0-9e5a-6f9f10f41e0d)
