@@ -1,4 +1,4 @@
-# Reporting on sales data
+# Reporting on Sales Data
 
 ## Project Links
 - [Data Analytics on Jupyter Notebook](https://app.datacamp.com/workspace/w/ee3ec299-eec7-4c61-90a5-4b2905878caf)
