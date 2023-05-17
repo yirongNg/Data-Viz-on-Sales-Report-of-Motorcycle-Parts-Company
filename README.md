@@ -1,5 +1,9 @@
 # Reporting on sales data
 
+## Project Links
+- [Data Analytics on Jupyter Notebook](https://app.datacamp.com/workspace/w/ee3ec299-eec7-4c61-90a5-4b2905878caf)
+- [Interactive Dashboard on Tableau](https://public.tableau.com/views/SalesReportofCompanySellingMotorcycleParts/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 ## 📖 Background
 You work in the accounting department of a company that sells motorcycle parts. The company operates three warehouses in a large metropolitan area.
 
