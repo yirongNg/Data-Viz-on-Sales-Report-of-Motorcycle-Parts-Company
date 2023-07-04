@@ -28,4 +28,6 @@ You’ve recently learned data manipulation and plotting, and suggest helping yo
 2. The top 3 products that have the highest average unit price are _engine, frame & body, and suspension & traction_. Engine has the highest unit average unit price but its total sales is ranked 5 out of the 6 products sold. This shows that engine has low sales revenue.
 
 3. Total sales for warehouse in Central region is increasing and the highest among the 3 warehouses while warehouse in West region has declining sales.
-![Dashboard 1](https://github.com/yirongNg/Data-Viz-on-Sales-Report-of-Motorcycle-Parts-Company/assets/132359604/f109d214-bbd9-43b0-9e5a-6f9f10f41e0d)
+
+![Dashboard 1](https://github.com/yirongNg/Data-Viz-on-Sales-Report-of-Motorcycle-Parts-Company/assets/132359604/ef4a6877-abc4-4a2d-8917-deaafabb85d5)
+
